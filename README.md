@@ -48,7 +48,7 @@ It features Light and Dark Mode, Mobile Navigation, Dynamic Skills Display, Dyna
 
 | Light Dark Mode |
 | :--------: |
-| ![Light Mode Preview](.images/1744982912339.jpeg) |
+| ![Light Mode Preview](images/1744982912339.jpeg) |
 ---
 
 ##  Acknowledgments
